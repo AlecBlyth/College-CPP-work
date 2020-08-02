@@ -1,0 +1,6 @@
+﻿  Alec-Blyth-Task-2-AveTotal-Program.cpp
+a:\visual studio\c++\alec-blyth-task-2-avetotal-program\alec-blyth-task-2-avetotal-program\alec-blyth-task-2-avetotal-program.cpp(25): warning C4101: 'i': unreferenced local variable
+a:\visual studio\c++\alec-blyth-task-2-avetotal-program\alec-blyth-task-2-avetotal-program\alec-blyth-task-2-avetotal-program.cpp(73): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+a:\visual studio\c++\alec-blyth-task-2-avetotal-program\alec-blyth-task-2-avetotal-program\alec-blyth-task-2-avetotal-program.cpp(74): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Alec-Blyth-Task-2-AveTotal-Program.vcxproj -> A:\Visual Studio\C++\Alec-Blyth-Task-2-AveTotal-Program\Debug\Alec-Blyth-Task-2-AveTotal-Program.exe
+  Alec-Blyth-Task-2-AveTotal-Program.vcxproj -> A:\Visual Studio\C++\Alec-Blyth-Task-2-AveTotal-Program\Debug\Alec-Blyth-Task-2-AveTotal-Program.pdb (Full PDB)
